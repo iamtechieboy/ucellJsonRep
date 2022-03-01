@@ -1,0 +1,65 @@
+[
+  {
+    "code": "*111*0301#",
+    "def": "Abonentlarga qulaylik yaratish maqsadida, Mobiuzda yaqinlaringiz bilan aloqada qolishga yordam beradigan ovozli pochta xizmati amal qilmoqda.\nUshbu xizmat,unga ulangan abonentga,bepul taqdim etiladi. Bitta ovozli xabar uchun 240 so‘m miqdorida bo‘lgan to‘lov,qo‘ng'iroq qilayotgan abonent tomonidan amalga oshiriladi (shuningdek unda tarifga kiritilgan daqiqalar ham sarflanadi). Mablag’larni yechib olish yozib olish boshlanganligi haqidagi signal berilgandan keyin amalga oshiriladi.",
+    "def_ru": "Для удобства подписчиков в Mobiuz есть служба голосовой почты, которая помогает вам оставаться на связи со своими близкими.\nЭта услуга предоставляется бесплатно подключенному к ней абоненту. Оплата 240 сумов за одно голосовое сообщение производится звонящим абонентом (включая минуты, включенные в тариф). Снятие средств производится после начала записи.",
+    "name": "Barcha uchun ovozli pochta",
+    "name_ru": "Голосовая почта для всех"
+  },
+  {
+    "code": "*166#",
+    "def": "Super 0 xizmati yoqilganda UMS tarmog'i ichida chiquvchi qo'ng'iroqlar uchun bir kalendar oyi muddatiga 15 000 daqiqalik to'plam ishga tushadi. Super 0 xizmati yoqilganda Konferents-aloqa xizmati ishlamaydi. Xizmat narxi 4 211 so'm. Ijobiy balansda faollashtirilgan paytda yechib olinadi! Xizmat amal qilish muddati cheklanmagan",
+    "def_ru": "С услугой «Super 0» исходящие звонки внутри сети UMS бесплатны**! Стоимость активации услуги — 4210,35 (списывается единоразово при подключении услуги). Ежемесячная абонентская плата за услугу — 0 сум! Срок действия услуги неограничен",
+    "name": "Gap ko`p",
+    "name_ru": "Гап куп"
+  },
+  {
+    "code": "*111*32#",
+    "def": "Ushbu xizmat kelgusida to'lanadigan mablag' hisobidan aloqa xizmatalridan foydalanishni davom ettirish uchun o'z hisobvaraqangizga 3 kun muddatga 12 632 so'm tushirish imkonini beradi. Va'da qilingan to'lov xizmatlarining amal qilish muddati tugagach, hisobvaraqdan 14 737 so'm (berilgan 12 632 so'm va faollashtirish uchun 2 105 so'm) yechib olinadi",
+    "def_ru": "«Вам звонили!» — дополнительная услуга связи, позволяющая абоненту UMS не потерять ни одного вызова в тех случаях, когда его телефон будет недоступен или выключен. Информацию о пропущенных вызовах абонент получит в виде SMS-сообщения c номера 808. Услуга «Вам звонили!» доступна и в роуминге. Важно помнить, что хотя сама услуга и входящие SMS в сети UMS являются бесплатными, в ряде стран за входящие SMS операторы мобильной связи взимают плату",
+    "name": "Vada qilingan tolov",
+    "name_ru": "Обещанный платеж"
+  },
+  {
+    "code": "*43#",
+    "def": "Suhbat mobaynida boshqa abonent kirish qo'ng'iroqlari (yoki qo'ng'iroq qilgan boshqa abonent) chaqiriqni kutish imkonini beradi va kirish chaqiriqlarini mazkur joriy suhbat tugaguniga qadar ushlab turadi, ya'ni navbatma-navbat ikki abonent bilan suhbatlashadi. Bekor qilish: #43#",
+    "def_ru": "Режим ожидания вызова позволяет в процессе разговора с другим абонентом ответить на входящий звонок (либо позвонить другому абоненту) и удержать поступивший вызов до завершения текущего разговора, то есть поочерёдно разговаривать с двумя абонентами. Отменить услугу #43#",
+    "name": "Chaqiriqni kutish va ushlab turish",
+    "name_ru": "Ожидание и удержание вызова"
+  },
+  {
+    "code": "*111*0131#",
+    "def": "Yangi ulangan abonentlarga ushbu xizmatni 30 kun davomida bepul ishlatish uchun faollashtirish imkoniyati taqdim etiladi. 30 kundan so'ng xizmat narxi 84 so'mni tashkil etadi. Amaldagi abonentlar uchun xizmatning abonent to'lovi - 84 so'm / kun. Bekor qilish: *111*0130#",
+    "def_ru": "«Вам звонили!» — дополнительная услуга связи, позволяющая абоненту UMS не потерять ни одного вызова в тех случаях, когда его телефон будет недоступен или выключен. Информацию о пропущенных вызовах абонент получит в виде SMS-сообщения c номера 808. Услуга «Вам звонили!» доступна и в роуминге. Важно помнить, что хотя сама услуга и входящие SMS в сети UMS являются бесплатными, в ряде стран за входящие SMS операторы мобильной связи взимают плату. Отменить услугу *111*0130#",
+    "name": "Sizga qongiroq qilishdi & Men aloqadaman!",
+    "name_ru": "Вам звонили & Я на связи!"
+  },
+  {
+    "code": "*111*0101#",
+    "def": "Raqamni aniqlashga qarshilik xizmatidan foydalanish: Abonent to'lovi - 421 so'm / kuniga. Raqamni aniqlashga qarshilik xizmatiga ulanish/xizmatni o'chirish bepul. Bekor qilish: *111*0100#",
+    "def_ru": "Использование услуги «Антиопределитель номера»: Абонентская плата - 0,10 у.е. (421,04 сум) в день. Включение/отключение услуги «Антиопределитель номера» - бесплатно. Отменить услугу: *111*0100#",
+    "name": "AntiAON",
+    "name_ru": "АнтиАОН"
+  },
+  {
+    "code": "*222*1#",
+    "def": "4G LTE Toshkent shahrining har bir qismida! UMS interneti ortiqcha harajatsiz 4G LTE tezligida! Xizmatga ulanish bepul. Bekor qilish: *222*0#",
+    "def_ru": "4G LTE в любой точке города Ташкента и в центральных районах Самарканда! Интернет UMS на 4G LTE скоростях без лишних затрат! Узнавайте больше нового, делитесь эмоциями, общайтесь активнее прямо сейчас на улетной скорости в любом месте! Отменить услугу: *222*0#",
+    "name": "4G LTE",
+    "name_ru": "4G LTE"
+  },
+  {
+    "code": "*140#",
+    "def": "*140# USSD-buyrug'i faol xizmatlarni tekshirish imkoniyatini beradi",
+    "def_ru": "USSD - Команда *140# дает возможность проверить активные услуги",
+    "name": "Faollashtirilgan xizmatlarni tekshirish",
+    "name_ru": "Проверка активных услуг"
+  },
+  {
+    "code": "*111*0021#",
+    "def": "Markaziy Osiyo (Tojikiston, Qozog'iston, Turkmaniston, Qirg'iziston) 2 316 so'm. Rossiya va MDH mamlakatlari 3 158 so'm, Yevropa 6 948 so'm, Osiyo 8 632 so'm. Boshqa mamlakatlar 8 211 so'm",
+    "def_ru": "Центральная Азия (Таджикистан,Казахстан,Туркменистан,Кыргызстан) - 0,55 у.е. (2315,70 сум). Россия и остальные страны СНГ - 0,75 у.е. (3157,77 сум). Европа - 1,65 у.е. (6947,08 сум). Азия - 2,05 у.е. (8631,22 сум). Америка, Африка - 1,95 у.е. (8210,19 сум). Остальной мир - 1,95 у.е. (8210,19 сум)",
+    "name": "Xalqaro qongiroqlar",
+    "name_ru": "Международные звонки"
+  }
+]
