@@ -1,16 +1,26 @@
 [
 {
-"code": "*100*1",
+"code": "*100",
 "def": "Banasni tekshirish",
 "def_ru": "Проверка баланса"
 },
 {
-"code": "*102",
-"def": "Qolgan MB tekshirish",
-"def_ru": "Проверка остаток МБ"
+"code": "*111",
+"def": "USSD Menu",
+"def_ru": "USSD мену"
 },
 {
-"code": "*103",
+"code": "*120",
+"def": "Смена тарифного плана",
+"def_ru": ""
+},
+{
+"code": "*900",
+"def": "Yagona hisob",
+"def_ru": "Едины счет"
+},
+{
+"code": "*1",
 "def": "Qolgan daqiqalarni tekshirish",
 "def_ru": "Проверка остаток минут"
 },
