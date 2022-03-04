@@ -11,8 +11,8 @@
 },
 {
 "code": "*120",
-"def": "Смена тарифного плана",
-"def_ru": ""
+"def": "Tarif rejani o`zgartirish",
+"def_ru": "Смена тарифного плана"
 },
 {
 "code": "*900",
@@ -20,24 +20,19 @@
 "def_ru": "Едины счет"
 },
 {
-"code": "*1",
-"def": "Qolgan daqiqalarni tekshirish",
-"def_ru": "Проверка остаток минут"
+"code": "*200",
+"def": "To`lov sanasini tekshirish",
+"def_ru": ""
 },
 {
-"code": "*104",
-"def": "SMS qoldig`ini tekshiring",
-"def_ru": "Проверка остаток смс"
+"code": "*107",
+"def": "Mb qoldig`ini tekshiring",
+"def_ru": "Проверка остаток мб"
 },
 {
-"code": "*140",
-"def": "Mening xizmatlarim",
-"def_ru": "Мои услуги"
-},
-{
-"code": "*222*1",
-"def": "4G LTE xizmatini ulang",
-"def_ru": "Подключить услугу 4G LTE"
+"code": "*350*1",
+"def": "Kontent-xizmatlarni o`chirish",
+"def_ru": "Деактивация контент-сервисов"
 },
 {
 "code": "*150",
@@ -45,53 +40,73 @@
 "def_ru": "Мой номер"
 },
 {
-"code": "*111*0061",
-"def": "Konferen aloqa",
-"def_ru": "Конференц-связь"
-},
-{
-"code": "*111*32",
-"def": "Qarz olish",
-"def_ru": "Взять долг"
-},
-{
-"code": "*111*0011",
-"def": "Mobil Internetni o`chirib qo`ying",
-"def_ru": "Выключить мобильный интернет"
-},
-{
-"code": "*111*015",
-"def": "Oxirgi to`lov",
-"def_ru": "Последный оплата"
-},
-{
-"code": "*111*025",
-"def": "Mening xarajatlarim",
-"def_ru": "Мои расходы"
-},
-{
-"code": "*111*320",
-"def": "Avans qoldig`ini tekshirish",
-"def_ru": "Проверка остатка аванса"
-},
-{
-"code": "*111*0140",
-"def": "GOOD`OK xizmatini o`chirish",
-"def_ru": "Отключение услуги GOOD`OK"
-},
-{
-"code": "*111*0151",
-"def": "Pul mablag`larini o`tkazishni taqiqlash",
-"def_ru": "Запрет перевода средств"
-},
-{
-"code": "*111*027*1",
-"def": "Reklamani taqiqlash",
-"def_ru": "Запретить рекламу"
+"code": "*360"
+"def": "Mening raqamim",
+"def_ru": "Мой номер"
 },
 {
 "code": "*#06",
 "def": "IMEI aniqlash",
 "def_ru": "Проверка IMEI"
+},
+{
+"code": "*400",
+"def": "SMS tafsilot",
+"def_ru": "СМС-детали"
+},
+{
+"code": "*450",
+"def": "To`lov sanasini tekshirish",
+"def_ru": "Проверить дату оплаты"
+},
+{
+"code": "*912",
+"def": ""Mobil avans" qoldig`ini tekshirish",
+"def_ru": "Проверка баланса «Мобильный аванс»"
+},
+{
+"code": "*43",
+"def": "Kutish rejimini yoqish",
+"def_ru": "Включить режим ожидания"
+},
+{
+"code": "*401",
+"def": "Mening xizmatlarim",
+"def_ru": "Мои услуги"
+},
+{
+"code": "*222",
+"def": "Restart",
+"def_ru": "Рестарт"
+},
+{
+"code": "*411",
+"def": "Mening xarajatlarim",
+"def_ru": "Мои расходы"
+},
+{
+"code": "*311",
+"def": "Raqam yaxshirish",
+"def_ru": "Улучшение номера"
+},
+{
+"code": "*977",
+"def": "Sizga qo`ng`iroq qilishdi",
+"def_ru": "Вам позвонили"
+},
+{
+"code": "*911",
+"def": "Mobil avans",
+"def_ru": "Мобильный аванс"
+},
+{
+"code": "*515",
+"def": "Internet avans",
+"def_ru": "Интернет аванс"
+},
+{
+"code": "*515",
+"def": "Internet avans",
+"def_ru": "Интернет аванс"
 }
 ]
