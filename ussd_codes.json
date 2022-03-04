@@ -98,5 +98,20 @@
 "code": "*515",
 "def": "Internet avans",
 "def_ru": "Интернет аванс"
+},
+{
+"code": "*220",
+"def": "Tilni tanlash",
+"def_ru": "Выбор языка"
+},
+{
+"code": "*987",
+"def": "Navbatsiz",
+"def_ru": "Без очереди"
+},
+{
+"code": "*233",
+"def": "Bir marttalik parol",
+"def_ru": "Одноразовый пароль"
 }
 ]
