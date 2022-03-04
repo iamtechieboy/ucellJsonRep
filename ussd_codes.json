@@ -22,7 +22,7 @@
 {
 "code": "*200",
 "def": "To`lov sanasini tekshirish",
-"def_ru": ""
+"def_ru": "Проверить дату оплаты"
 },
 {
 "code": "*107",
@@ -40,7 +40,7 @@
 "def_ru": "Мой номер"
 },
 {
-"code": "*360"
+"code": "*360",
 "def": "Mening raqamim",
 "def_ru": "Мой номер"
 },
@@ -61,7 +61,7 @@
 },
 {
 "code": "*912",
-"def": ""Mobil avans" qoldig`ini tekshirish",
+"def": "«Mobil avans» qoldig`ini tekshirish",
 "def_ru": "Проверка баланса «Мобильный аванс»"
 },
 {
