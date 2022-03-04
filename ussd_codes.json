@@ -40,11 +40,6 @@
 "def_ru": "Мой номер"
 },
 {
-"code": "*360",
-"def": "Mening raqamim",
-"def_ru": "Мой номер"
-},
-{
 "code": "*#06",
 "def": "IMEI aniqlash",
 "def_ru": "Проверка IMEI"
@@ -98,11 +93,6 @@
 "code": "*911",
 "def": "Mobil avans",
 "def_ru": "Мобильный аванс"
-},
-{
-"code": "*515",
-"def": "Internet avans",
-"def_ru": "Интернет аванс"
 },
 {
 "code": "*515",
