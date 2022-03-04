@@ -1,65 +1,58 @@
 [
   {
-    "code": "*221#",
-    "def": "Agar Siz biror xizmat, aksiya yoki tarif haqida qisqacha ma’lumot olishingiz lozim bo‘lsa, biroq Sizda www.ucell.uz internet-saytiga yoki Kompaniya ofislariga tashrif buyurish imkoni bo‘lmasa, Siz «SMS-Info» xizmatidan, mahsus *221# USSD so'rovi yordamida foydalanishingiz mumkin. Hizmat bepul taqdim etiladi.",
-    "def_ru": "Если Вам необходимо получить краткую информацию об услуге, акции или тарифе, но у Вас нет возможности посетить сайт www.ucell.uz или офисы Компании, Вы можете воспользоваться услугой «SMS-Info», спец.* 221 # Можно использовать USSD-запрос. Услуга предоставляется бесплатно.",
-    "name": "SMS-info",
-    "name_ru": "SMS-info"
+    "code": "*400#",
+    "def": "Endi siz qo‘ng‘iroqlar, SMS, MMS, Internet uchun hisobot oyining boshidan boshlab sarflangan mablag‘lar va to‘lovlar bo‘yicha batafsil ma‘lumot olish imkoniga ega bo‘ldingiz.",
+    "def_ru": "Теперь вы можете получить подробную информацию по звонкам, SMS, MMS, интернету, расходам и платежам с начала отчетного месяца.",
+    "name": "SMS-tafsilot",
+    "name_ru": "СМС-детали"
   },
   {
-    "code": "*166#",
-    "def": "Super 0 xizmati yoqilganda UMS tarmog'i ichida chiquvchi qo'ng'iroqlar uchun bir kalendar oyi muddatiga 15 000 daqiqalik to'plam ishga tushadi. Super 0 xizmati yoqilganda Konferents-aloqa xizmati ishlamaydi. Xizmat narxi 4 211 so'm. Ijobiy balansda faollashtirilgan paytda yechib olinadi! Xizmat amal qilish muddati cheklanmagan",
-    "def_ru": "С услугой «Super 0» исходящие звонки внутри сети UMS бесплатны**! Стоимость активации услуги — 4210,35 (списывается единоразово при подключении услуги). Ежемесячная абонентская плата за услугу — 0 сум! Срок действия услуги неограничен",
-    "name": "Gap ko`p",
-    "name_ru": "Гап куп"
+    "code": "*136#",
+    "def": "Sodiqlik dasturi doirasida abonentlar o‘z tarif rejalariga bog‘liq holda maqomlar hamda Ucell tarmog‘ida bo‘lib kelayotgan muddatidan kelib chiqib afzalliklar oladilar.",
+    "def_ru": "В рамках программы лояльности абоненты будут получать преимущества в зависимости от их тарифных планов, статуса и продолжительности пребывания в сети Ucell.",
+    "name": "Sodiqlik dasturi",
+    "name_ru": "Программа лояльности"
   },
   {
-    "code": "*111*32#",
-    "def": "Ushbu xizmat kelgusida to'lanadigan mablag' hisobidan aloqa xizmatalridan foydalanishni davom ettirish uchun o'z hisobvaraqangizga 3 kun muddatga 12 632 so'm tushirish imkonini beradi. Va'da qilingan to'lov xizmatlarining amal qilish muddati tugagach, hisobvaraqdan 14 737 so'm (berilgan 12 632 so'm va faollashtirish uchun 2 105 so'm) yechib olinadi",
-    "def_ru": "«Вам звонили!» — дополнительная услуга связи, позволяющая абоненту UMS не потерять ни одного вызова в тех случаях, когда его телефон будет недоступен или выключен. Информацию о пропущенных вызовах абонент получит в виде SMS-сообщения c номера 808. Услуга «Вам звонили!» доступна и в роуминге. Важно помнить, что хотя сама услуга и входящие SMS в сети UMS являются бесплатными, в ряде стран за входящие SMS операторы мобильной связи взимают плату",
-    "name": "Vada qilingan tolov",
-    "name_ru": "Обещанный платеж"
+    "code": "*900#",
+    "def": "«Yagona hisob» xizmati abonentlarga raqamning tarif rejasi va ulangan barcha xizmatlar doirasidagi limitlar qoldiqlari haqida ma’lumot olish imkonini beradi. Xizmat bepul.",
+    "def_ru": "Услуга «Единый счет» позволяет абонентам получать информацию о тарифном плане номера и остатке лимитов по всем подключенным услугам. Услуга бесплатна.",
+    "name": "Yagona hisob",
+    "name_ru": "Единый аккаунт"
   },
   {
-    "code": "*43#",
-    "def": "Suhbat mobaynida boshqa abonent kirish qo'ng'iroqlari (yoki qo'ng'iroq qilgan boshqa abonent) chaqiriqni kutish imkonini beradi va kirish chaqiriqlarini mazkur joriy suhbat tugaguniga qadar ushlab turadi, ya'ni navbatma-navbat ikki abonent bilan suhbatlashadi. Bekor qilish: #43#",
-    "def_ru": "Режим ожидания вызова позволяет в процессе разговора с другим абонентом ответить на входящий звонок (либо позвонить другому абоненту) и удержать поступивший вызов до завершения текущего разговора, то есть поочерёдно разговаривать с двумя абонентами. Отменить услугу #43#",
-    "name": "Chaqiriqni kutish va ushlab turish",
-    "name_ru": "Ожидание и удержание вызова"
+    "code": "*350#",
+    "def": "Xizmatlarni o‘chirish – abonentlar oldin faollashtirilgan barcha xizmatlarni ko‘plab maxsus USSD-so‘rovlarni kiritmasdan bekor qilishlari uchun qulay vosita. Xizmat bepul.",
+    "def_ru": "Деактивация услуг — это удобный способ для абонентов отменить все ранее активированные услуги без ввода множества специальных USSD-запросов. Услуга бесплатна.",
+    "name": "Xizmatlarni o‘chirish",
+    "name_ru": "Деактивировать услуги"
   },
   {
-    "code": "*111*0131#",
-    "def": "Yangi ulangan abonentlarga ushbu xizmatni 30 kun davomida bepul ishlatish uchun faollashtirish imkoniyati taqdim etiladi. 30 kundan so'ng xizmat narxi 84 so'mni tashkil etadi. Amaldagi abonentlar uchun xizmatning abonent to'lovi - 84 so'm / kun. Bekor qilish: *111*0130#",
-    "def_ru": "«Вам звонили!» — дополнительная услуга связи, позволяющая абоненту UMS не потерять ни одного вызова в тех случаях, когда его телефон будет недоступен или выключен. Информацию о пропущенных вызовах абонент получит в виде SMS-сообщения c номера 808. Услуга «Вам звонили!» доступна и в роуминге. Важно помнить, что хотя сама услуга и входящие SMS в сети UMS являются бесплатными, в ряде стран за входящие SMS операторы мобильной связи взимают плату. Отменить услугу *111*0130#",
-    "name": "Sizga qongiroq qilishdi & Men aloqadaman!",
-    "name_ru": "Вам звонили & Я на связи!"
+    "code": "*411#",
+    "def": "Hisobdagi pullar nimalarga sarflanganini bila olmayapsizmi? *411# USSD-so‘rovini yuboring va so’rov yuborilgan kun hamda ohirgi 2 kun uchun hisobdagi barcha o‘zgarishlar bo‘yicha batafsil hisobot ko‘rsatilgan tafsilotga buyurtma bering. 1 so‘rov narxi - 126.3 so‘m.",
+    "def_ru": "Не знаете, на что были потрачены деньги на счету? Отправьте USSD-запрос *411# и закажите реквизиты с подробным отчетом обо всех изменениях в аккаунте за день запроса и за последние 2 дня. Стоимость 1 запроса 126,3 сум.",
+    "name": "Hisob kitob",
+    "name_ru": "Бухгалтерская книга"
   },
   {
-    "code": "*111*0101#",
-    "def": "Raqamni aniqlashga qarshilik xizmatidan foydalanish: Abonent to'lovi - 421 so'm / kuniga. Raqamni aniqlashga qarshilik xizmatiga ulanish/xizmatni o'chirish bepul. Bekor qilish: *111*0100#",
-    "def_ru": "Использование услуги «Антиопределитель номера»: Абонентская плата - 0,10 у.е. (421,04 сум) в день. Включение/отключение услуги «Антиопределитель номера» - бесплатно. Отменить услугу: *111*0100#",
-    "name": "AntiAON",
-    "name_ru": "АнтиАОН"
+    "code": "*360#",
+    "def": "O‘zingizning pasportingizga qaysi raqamlar rasmiylashtirilganligini unutib qo‘ydingizmi? Ucell Sizga o‘z raqamlaringiz haqida, shu jumladan ularning holati, hisobi va faol pulli xizmatlar xususida batafsil ma’lumotlarni olishga yordam beradi! So‘rovlar miqdori cheklangan – kuniga 2 so‘rov. Xizmat bepul.",
+    "def_ru": "Вы забыли цифры в паспорте? Ucell поможет вам получить подробную информацию о ваших номерах, включая их статус, счет и активные платные услуги! Количество запросов ограничено - 2 запроса в день. Услуга бесплатна.",
+    "name": "Mening raqamlarim",
+    "name_ru": "Мои номера"
   },
   {
-    "code": "*222*1#",
-    "def": "4G LTE Toshkent shahrining har bir qismida! UMS interneti ortiqcha harajatsiz 4G LTE tezligida! Xizmatga ulanish bepul. Bekor qilish: *222*0#",
-    "def_ru": "4G LTE в любой точке города Ташкента и в центральных районах Самарканда! Интернет UMS на 4G LTE скоростях без лишних затрат! Узнавайте больше нового, делитесь эмоциями, общайтесь активнее прямо сейчас на улетной скорости в любом месте! Отменить услугу: *222*0#",
-    "name": "4G LTE",
-    "name_ru": "4G LTE"
+    "code": "*200#",
+    "def": "Endi Siz abonent to‘lovining navbatdagi yechilish sanasini bilib olishingiz uchun, shuningdek boshqa foydali ma’lumotlarga ega bo’lishingiz uchun  raqamiga USSD-so‘rov yuborsangiz kifoya. Xizmat bepul.Samarali so‘rovlar soni – kuniga 20 urinish ",
+    "def_ru": "Теперь вам достаточно отправить USSD-запрос на номер, чтобы узнать дату следующей абонентской платы, а также получить другую полезную информацию. Услуга бесплатная, количество эффективных запросов 20 попыток в сутки.",
+    "name": "Mening tarifim",
+    "name_ru": "Мой тариф"
   },
   {
-    "code": "*140#",
-    "def": "*140# USSD-buyrug'i faol xizmatlarni tekshirish imkoniyatini beradi",
-    "def_ru": "USSD - Команда *140# дает возможность проверить активные услуги",
-    "name": "Faollashtirilgan xizmatlarni tekshirish",
-    "name_ru": "Проверка активных услуг"
-  },
-  {
-    "code": "*111*0021#",
-    "def": "Markaziy Osiyo (Tojikiston, Qozog'iston, Turkmaniston, Qirg'iziston) 2 316 so'm. Rossiya va MDH mamlakatlari 3 158 so'm, Yevropa 6 948 so'm, Osiyo 8 632 so'm. Boshqa mamlakatlar 8 211 so'm",
-    "def_ru": "Центральная Азия (Таджикистан,Казахстан,Туркменистан,Кыргызстан) - 0,55 у.е. (2315,70 сум). Россия и остальные страны СНГ - 0,75 у.е. (3157,77 сум). Европа - 1,65 у.е. (6947,08 сум). Азия - 2,05 у.е. (8631,22 сум). Америка, Африка - 1,95 у.е. (8210,19 сум). Остальной мир - 1,95 у.е. (8210,19 сум)",
-    "name": "Xalqaro qongiroqlar",
-    "name_ru": "Международные звонки"
+    "code": "*977#",
+    "def": "O‘tkazib yuborilgan ko’ng’iroqlar xaqida doimo habardor buling. Endi *977# raqamiga bir USSD so’rov orqali siz 'Sizga qo‘ng‘iroq qilishdi' va 'Men aloqadaman' xizmatlarini bir vaqtda yoqishingiz mumkin.Kunlik abonent to‘lovi - 240 so‘m/kun",
+    "def_ru": "Всегда будьте в курсе пропущенных вызовов. Теперь вы можете подключить услуги «Вам звонили» и «Я на связи» одновременно, отправив USSD-запрос на номер *977# Ежедневная абонентская плата составляет 240 сум/день.",
+    "name": "Sizga qo‘ng‘iroq qilishdi",
+    "name_ru": "Вам позвонили"
   }
 ]
