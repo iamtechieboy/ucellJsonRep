@@ -1,10 +1,10 @@
 [
   {
-    "code": "*111*0301#",
-    "def": "Abonentlarga qulaylik yaratish maqsadida, Mobiuzda yaqinlaringiz bilan aloqada qolishga yordam beradigan ovozli pochta xizmati amal qilmoqda.\nUshbu xizmat,unga ulangan abonentga,bepul taqdim etiladi. Bitta ovozli xabar uchun 240 so‘m miqdorida bo‘lgan to‘lov,qo‘ng'iroq qilayotgan abonent tomonidan amalga oshiriladi (shuningdek unda tarifga kiritilgan daqiqalar ham sarflanadi). Mablag’larni yechib olish yozib olish boshlanganligi haqidagi signal berilgandan keyin amalga oshiriladi.",
-    "def_ru": "Для удобства подписчиков в Mobiuz есть служба голосовой почты, которая помогает вам оставаться на связи со своими близкими.\nЭта услуга предоставляется бесплатно подключенному к ней абоненту. Оплата 240 сумов за одно голосовое сообщение производится звонящим абонентом (включая минуты, включенные в тариф). Снятие средств производится после начала записи.",
-    "name": "Barcha uchun ovozli pochta",
-    "name_ru": "Голосовая почта для всех"
+    "code": "*221#",
+    "def": "Agar Siz biror xizmat, aksiya yoki tarif haqida qisqacha ma’lumot olishingiz lozim bo‘lsa, biroq Sizda www.ucell.uz internet-saytiga yoki Kompaniya ofislariga tashrif buyurish imkoni bo‘lmasa, Siz «SMS-Info» xizmatidan, mahsus *221# USSD so'rovi yordamida foydalanishingiz mumkin. Hizmat bepul taqdim etiladi.",
+    "def_ru": "Если Вам необходимо получить краткую информацию об услуге, акции или тарифе, но у Вас нет возможности посетить сайт www.ucell.uz или офисы Компании, Вы можете воспользоваться услугой «SMS-Info», спец.* 221 # Можно использовать USSD-запрос. Услуга предоставляется бесплатно.",
+    "name": "SMS-info",
+    "name_ru": "SMS-info"
   },
   {
     "code": "*166#",
