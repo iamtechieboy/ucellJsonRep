@@ -128,5 +128,75 @@
     "price": "15 000",
     "type": "0",
     "sms": "1 000"
+  },
+  {
+    "code": "*120",
+    "packet": "3 072",
+    "minutes": "1 200",
+    "name_ru": "Cоф 18",
+    "name": "Sof 18",
+    "price": "18 000",
+    "type": "0",
+    "sms": "500"
+  },
+  {
+    "code": "*120",
+    "packet": "7 189",
+    "minutes": "3 000",
+    "name_ru": "Cоф 30",
+    "name": "Sof 30",
+    "price": "30 000",
+    "type": "0",
+    "sms": "1 000"
+  },
+  {
+    "code": "*120",
+    "packet": "10 240",
+    "minutes": "∞",
+    "name_ru": "Cоф 40",
+    "name": "Sof 40",
+    "price": "40 000",
+    "type": "0",
+    "sms": "1 500"
+  },
+  {
+    "code": "*120",
+    "packet": "13 312",
+    "minutes": "∞",
+    "name_ru": "Cоф 50",
+    "name": "Sof 50",
+    "price": "50 000",
+    "type": "0",
+    "sms": "2 500"
+  },
+  {
+    "code": "*120",
+    "packet": "22 594",
+    "minutes": "∞",
+    "name_ru": "Cоф 70",
+    "name": "Sof 70",
+    "price": "70 000",
+    "type": "0",
+    "sms": "4 000"
+  },,
+  {
+    "code": "*120",
+    "packet": "35 840",
+    "minutes": "∞",
+    "name_ru": "Cоф 100",
+    "name": "Sof 100",
+    "price": "100 000",
+    "type": "0",
+    "sms": "5 000"
+  },,
+  {
+    "code": "*120",
+    "packet": "∞",
+    "minutes": "∞",
+    "name_ru": "Cоф 150",
+    "name": "Sof 150",
+    "price": "150 000",
+    "type": "0",
+    "sms": "5 000"
   }
 ]
