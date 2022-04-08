@@ -178,7 +178,7 @@
     "price": "70 000",
     "type": "0",
     "sms": "4 000"
-  },,
+  },
   {
     "code": "*120",
     "packet": "35 840",
@@ -188,7 +188,7 @@
     "price": "100 000",
     "type": "0",
     "sms": "5 000"
-  },,
+  },
   {
     "code": "*120",
     "packet": "∞",
@@ -198,5 +198,45 @@
     "price": "150 000",
     "type": "0",
     "sms": "5 000"
+  },
+  {
+    "code": "*120",
+    "packet": "20 480",
+    "minutes": "-",
+    "name_ru": "Интернет 60",
+    "name": "Internet 60",
+    "price": "60 000",
+    "type": "0",
+    "sms": "-"
+  },
+  {
+    "code": "*120",
+    "packet": "30",
+    "minutes": "30",
+    "name_ru": "Старт 10",
+    "name": "Start 10",
+    "price": "10 000",
+    "type": "0",
+    "sms": "30"
+  },
+  {
+    "code": "*120",
+    "packet": "30",
+    "minutes": "30",
+    "name_ru": "Старт 10",
+    "name": "Start 10",
+    "price": "10 000",
+    "type": "0",
+    "sms": "30"
+  },
+  {
+    "code": "*120",
+    "packet": "1 500",
+    "minutes": "1 500",
+    "name_ru": "Овоз 15",
+    "name": "Ovoz 15",
+    "price": "15 000",
+    "type": "0",
+    "sms": "500"
   }
 ]
