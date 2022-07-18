@@ -2,5 +2,5 @@
     "app_ver": "1.8.3",
     "data_ver": "1.1.8",
     "app_url": "https://github.com/Javoh29/Mobiuz/blob/master/videoplayback.mp4",
-    "sms_permission" : "0"
+    "sms_permission" : "1"
 }
